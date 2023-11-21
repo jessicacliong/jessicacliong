@@ -6,7 +6,7 @@ Enjoying my career change as a programmer and aspire to pursue this career many 
 ### What is Jess up to now :
 
 - Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023 !
-- 
+
 - 👀 Keen to learn `AWS`
   
 - 🌱 I’m currently learning ...
