@@ -1,12 +1,18 @@
-<h2> Hi there! </h2>
-<break></break>
-I’m Jessica, a career changer with a background in Science & Technology. 
-Recently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023! 
-Enjoying my career change as a programmer and aspire to pursue this career in many years to come 
+## Hi there!
 
-- 👀 I’m interested in ...
+I’m Jessica, a career changer with a background in Science & Technology and unique work experiences. 
+Enjoying my career change as a programmer and aspire to pursue this career many years to come 
+
+### What is Jess up to now :
+- Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023 !
+- 👀 Keen to learn `AWS`
 - 🌱 I’m currently learning ...
+  
+- 💻 Projects keen on doing:
+  
 - 🛠️ Languages & Tools ...
+
+
 - 📫 Get in touch: ...
 
 
