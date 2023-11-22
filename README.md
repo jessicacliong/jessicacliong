@@ -1,11 +1,15 @@
 ## Hi there! &nbsp;🌻
 
-#### 💭&nbsp; I’m Jessica, a career changer with a background in Science & Technology and unique experiences. 
-Enjoying my career change as a programmer and aspire to pursue this career in many years to come &nbsp;🎶
+#### 💭&nbsp; I’m a career changer with a background in Science & Technology and unique experiences. 
+#### Enjoying my career change as a programmer and aspire to pursue this career in many years to come &nbsp;🎶
 
 ---
 
-### What is Jess up to now :
+### 💎&nbsp; My Values
+
+---
+
+### What I'm doing now :
 
 - 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023
 
