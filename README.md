@@ -1,21 +1,32 @@
-## Hi there! 
+## Hi there! &nbsp;🌻
 
-I’m Jessica, a career changer with a background in Science & Technology and unique work experiences. 
-Enjoying my career change as a programmer and aspire to pursue this career many years to come 
+#### 💭&nbsp; I’m Jessica, a career changer with a background in Science & Technology and unique experiences. 
+Enjoying my career change as a programmer and aspire to pursue this career in many years to come &nbsp;🎶
+
+---
 
 ### What is Jess up to now :
 
-- Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023 !
+- 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023
 
-- 👀 Keen to learn `AWS`
+- 🔬&nbsp; Solidifying `React.js`, `Express.js` and `MongoDB`
   
-- 🌱 I’m currently learning ...
+- 👀&nbsp; Keen on learning `AWS Cloud`
   
-- 💻 Projects keen on doing:
-  
-- 🛠️ Languages & Tools ...
+- 🌱&nbsp; New projects to start / continue :
+  - *"Free Text Search"* of Hackathon Project to practice `React.js` and `JavaScript`
+  - *"Pawtel"*, a Full-Stack web Application using `MERN` stack `MongoDB`, `React.js`, `Express.js`,and `Node.js`
+  - *"Smart Search"*, a search program utilising an `AI` tool with `React.js`
 
-- 📫 Get in touch: ...
+---
+  
+### 🛠💻&nbsp; Languages & Tools
+
+---
+
+- 📫 Get in touch -> [LinkedIn](https://www.linkedin.com/in/jessica-liong/)
+
+- ✉️ Email -> jessicacliong@gmail.com
 
 
 <!---
