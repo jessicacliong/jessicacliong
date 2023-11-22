@@ -5,11 +5,13 @@
 
 ---
 
-### 💎&nbsp; My Values
+### 💎&nbsp; Values
 
 💭&nbsp; Beginner's mindset and Curiosity
 
 🏃‍♂️&nbsp; Perseverance and Dedication
+
+💡&nbsp; *"If you can do it, I can do it too!"*
 
 ---
 
@@ -17,13 +19,13 @@
 
 - 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023
 
-- 🔬&nbsp; Solidifying `React.js`, `Express.js` and `MongoDB`
+- 🔬&nbsp; Solidifying Mern stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
 - 👀&nbsp; Keen on learning `AWS Cloud`
   
 - 🌱&nbsp; New projects to start / continue :
   - *"Free Text Search"* of Hackathon Project to practice `React.js` and `JavaScript`
-  - *"Pawtel"*, a Full-Stack web Application using `MERN` stack `MongoDB`, `React.js`, `Express.js`,and `Node.js`
+  - *"Pawtel"*, a Full-Stack web Application using `MERN` stack
   - *"Smart Search"*, a search program utilising an `AI` tool with `React.js`
 
 ---
