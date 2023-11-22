@@ -5,13 +5,13 @@
 
 ---
 
-### 💎&nbsp; Values
+### 💎&nbsp; Values:
 
-💭&nbsp; Beginner's mindset and Curiosity
+- 💭&nbsp; Beginner's mindset and Curiosity
 
-🏃‍♂️&nbsp; Perseverance and Dedication
+- 🏃‍♂️&nbsp; Perseverance and Dedication
 
-💡&nbsp; *"If you can do it, I can do it too!"*
+- 💡&nbsp; *"If you can do it, I can do it too!"*
 
 ---
 
