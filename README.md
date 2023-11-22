@@ -30,9 +30,10 @@
 
 ---
 
-- 📫 Get in touch -> [LinkedIn](https://www.linkedin.com/in/jessica-liong/)
+### Get in touch :
+- 📫&nbsp; Let's connect! -> [LinkedIn](https://www.linkedin.com/in/jessica-liong/)
 
-- ✉️ Email -> jessicacliong@gmail.com
+- ✉️&nbsp; Email -> jessicacliong@gmail.com
 
 ---
   
