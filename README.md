@@ -17,15 +17,15 @@
 
 ### What I'm doing now :
 
-- 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in December 2023
+- 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in end of December 2023
 
 - 🔬&nbsp; Solidifying Mern stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
 - 👀&nbsp; Keen on learning `AWS Cloud`
   
 - 🌱&nbsp; New projects to start / continue :
-  - *"Free Text Search"* of Hackathon Project to practice `React.js` and `JavaScript`
   - *"Pawtel"*, a Full-Stack web Application using `MERN` stack
+  - *"Free Text Search"* of Hackathon Project to practice `React.js` and `JavaScript`
   - *"Smart Search"*, a search program utilising an `AI` tool with `React.js`
 
 ---
