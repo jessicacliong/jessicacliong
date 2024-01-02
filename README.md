@@ -1,6 +1,6 @@
 ## Hi there! &nbsp;🌻
 
-#### 💭&nbsp; I’m a career changer with a background in Science & Technology and unique experiences. 
+#### 💭&nbsp; I’m a career changer with a background in Science & Technology and unique work experience. 
 #### Enjoying my career change as a programmer and aspire to pursue this career in many years to come &nbsp;🎶
 
 ---
@@ -11,7 +11,7 @@
 
 - 🏃‍♂️&nbsp; Perseverance and Dedication
 
-- 💡&nbsp; *"If you can do it, I can do it too!"*
+- 💡&nbsp; *"If they can do it, I can do it too!"*
 
 ---
 
@@ -19,14 +19,13 @@
 
 - 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in end of December 2023
 
-- 🔬&nbsp; Solidifying Mern stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
+- 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
 - 👀&nbsp; Keen on learning `AWS Cloud`
   
 - 🌱&nbsp; New projects to start / continue :
   - *"Pawtel"*, a Full-Stack web Application using `MERN` stack
   - *"Free Text Search"* of Hackathon Project to practice `React.js` and `JavaScript`
-  - *"Smart Search"*, a search program utilising an `AI` tool with `React.js`
 
 ---
 
