@@ -28,8 +28,8 @@
 
   
 - 🌱&nbsp; New projects to start / continue :
-  - *"Pawtel"*, a Full-Stack web Application using `MERN` stack
-  - *"Free Text Search"* Using `JavaScript`
+  - *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
+  - *"Free Text Image Search"* Using `JavaScript` & `AI`
 
 ---
 
