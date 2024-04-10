@@ -21,11 +21,15 @@
 
 - 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
-- 👀&nbsp; Keen on learning `AWS Cloud`
+- 👀&nbsp; Keen on learning:
+    - ML & AI
+    - AWS Cloud
+    - TypeScript
+
   
 - 🌱&nbsp; New projects to start / continue :
   - *"Pawtel"*, a Full-Stack web Application using `MERN` stack
-  - *"Free Text Search"* of Hackathon Project to practice `React.js` and `JavaScript`
+  - *"Free Text Search"* Using `JavaScript`
 
 ---
 
