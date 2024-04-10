@@ -17,8 +17,6 @@
 
 ### What I'm doing now :
 
-- 🕒&nbsp; Currently finishing up Coder Academy's Full Stack Web Development Bootcamp in end of December 2023
-
 - 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
 - 👀&nbsp; Keen on learning:
