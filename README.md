@@ -20,13 +20,13 @@
 - 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
 - 👀&nbsp; Keen on learning:
-    - ML & AI
     - AWS Cloud
     - TypeScript
+    - Ruby on Rails
 
   
 - 🌱&nbsp; New projects to start / continue :
-  - *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
+  - Client side of *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   - *"Free Text Image Search"* Using `JavaScript` & `AI`
 
 ---
