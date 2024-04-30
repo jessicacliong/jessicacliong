@@ -20,9 +20,8 @@
 - 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
   
 - 👀&nbsp; Keen on learning:
-    - AWS Cloud
     - TypeScript
-    - Ruby on Rails
+    - Ruby & Ruby on Rails
 
   
 - 🌱&nbsp; New projects to start / continue :
