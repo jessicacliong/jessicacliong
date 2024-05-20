@@ -26,6 +26,7 @@
   
 - 🌱&nbsp; New projects to start / continue :
   - Client side of *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
+  - Revamped Portfolio Website
 
 ---
 
