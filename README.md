@@ -21,12 +21,11 @@
   
 - 👀&nbsp; Keen on learning:
     - TypeScript
-    - Ruby & Ruby on Rails
 
   
 - 🌱&nbsp; New projects to start / continue :
   - Client side of *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
-  - Revamped Portfolio Website (Version 2.0 of first Attempt Portfolio)
+  - Revamped Portfolio Website (Version 1.2 of first Portfolio)
 
 ---
 
