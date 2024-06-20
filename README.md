@@ -1,7 +1,6 @@
 ## Hi there! &nbsp;🌻
 
 #### 💭&nbsp; I’m a career changer with a background in Science & Technology and unique work experience. 
-#### Enjoying my career change as a programmer and aspire to pursue this career in many years to come &nbsp;🎶
 
 ---
 
@@ -11,17 +10,11 @@
 
 - 🏃‍♂️&nbsp; Perseverance and Dedication
 
-- 💡&nbsp; *"If they can do it, I can do it too!"*
-
 ---
 
-### What I'm doing now :
+### What I'm up to :
 
 - 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
-  
-- 👀&nbsp; Keen on learning:
-    - TypeScript
-
   
 - 🌱&nbsp; New projects to start / continue :
   - Client side of *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
