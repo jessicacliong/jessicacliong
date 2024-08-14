@@ -16,10 +16,10 @@
 
 ### What I'm up to :
 
-- 🔬&nbsp; Solidifying MERN stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
+- 🔬&nbsp; Solidifying MERN stack: `React`, `Node.js`,`Express.js` and `MongoDB`
   
 - 🌱&nbsp; New projects to start / continue :
-  - Client side of *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React.js`, `Node.js`,`Express.js` and `MongoDB`
+  - Client side of *"Pawtel"*, a Full-Stack web Application using `MERN` stack: `React`, `Node.js`,`Express.js` and `MongoDB`
   - Revamped Portfolio Website (Version 1.2 of first Portfolio)
 
 ---
