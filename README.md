@@ -2,6 +2,8 @@
 
 #### 💭&nbsp; I’m a career changer with a background in Science & Technology and unique work experience. 
 
+#### 💻&nbsp; Currently a back-end intern at Cogniss
+
 ---
 
 ### 💎&nbsp; Values:
@@ -54,7 +56,6 @@
             <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"  title="Flask" alt="Flask" height="22"/>
             <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"  title="NodeJS" alt="NodeJS" height="22"/>
             <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white"  title="ExressJS" alt="ExpressJS" height="22"/>
-          </th>
           <td>Version Control</th>
           <td>
             <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"  title="GitHub" alt="GitHub" height="22"/>
